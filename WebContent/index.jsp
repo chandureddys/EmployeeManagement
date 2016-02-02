@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+    
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -108,6 +109,13 @@ border-radius:5px;
         </div>
         <button class="btn btn-lg btn-success btn-block" type="submit">Sign in</button>
       </form>
+      
+      
+      
+      
+      
+      
+      
    			</div>
    			
 
@@ -116,10 +124,10 @@ border-radius:5px;
 
    		<div class="row contact1">
    			<div class="col-xs-12">
-   			<p>For Support and Queries</p>
-   			<p>Email:csreddy.512@gmail.com</p>
-   			<p>Web:chandrasekharreddy.me</p>
-   			<p>Mobile:999999999</p>
+   			<span>For Support and Queries</span>
+   			<span>Email:csreddy.512@gmail.com</span>
+   			<span>Web:chandrasekharreddy.me</span>
+   			<span>Mobile:999999999</span>
    			
    			</div>
    			
