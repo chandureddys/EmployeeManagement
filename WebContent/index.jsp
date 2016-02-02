@@ -96,7 +96,7 @@ border-radius:5px;
    		<div class="row contact1 img-rounded">
    			<div class="col-xs-12">
    				
-   				<form class="form-signin">
+   				<form class="form-signin" action="/login" method="POST">
         <h2 class="form-signin-heading">Member Login</h2>
         <label for="inputEmail" class="sr-only">Email address</label>
         <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
